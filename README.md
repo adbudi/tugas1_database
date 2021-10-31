@@ -15,16 +15,16 @@ didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistemat
    * Object Oriented Model : Menggunakan pendekatan object dalam menyimpan data.  
 <br>
 ### 4. Sebutkan 6 aplikasi RDBMS selain MySQL!
-* MariaDB
-* MangoDB
-* Oracle
-* SQL Server
-* SyyBase
-* Microsoft Access
+    * MariaDB
+    * MangoDB
+    * Oracle
+    * SQL Server
+    * SyyBase
+    * Microsoft Access
 <br>
 ### 5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
-* User friendly
-* Multiuser Support  
-* Speed
-* Internazionalizasion
-* Web Aplication Support
+    * User friendly
+    * Multiuser Support  
+    * Speed
+    * Internazionalizasion
+    * Web Aplication Support
