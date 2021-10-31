@@ -5,8 +5,8 @@ didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistemat
 <br>
 
 ### 2. Apa singkatan dan pengertian RDBMS ?
-** RDBMS (Relational Database Management Systems)
-** Aplikasi database yang menggunakan konsep relational model
+* RDBMS (Relational Database Management Systems)
+* Aplikasi database yang menggunakan konsep relational model
 
 <br>
 
