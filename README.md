@@ -23,8 +23,8 @@ didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistemat
 * Microsoft Access
 <br>
 ### 5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
-* User friendly
-* Multiuser Support  
-* Speed
-* Internazionalizasion
-* Web Aplication Support
+* ** User friendly
+* ** Multiuser Support  
+* ** Speed
+* ** Internazionalizasion
+* **Web Aplication Support
