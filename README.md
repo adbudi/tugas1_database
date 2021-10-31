@@ -3,9 +3,8 @@
 didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistematis di dalam komputer yang dapat diolah atau dimanipulasi menggunakan perangkat lunak (software) program atau aplikasi untuk menghasilkan informasi.
 <br>
 ### 2. Apa singkatan dan pengertian RDBMS ?
--RDBMS (Relational Database Management Systems)
-###
--Aplikasi database yang menggunakan konsep relational model
+- RDBMS (Relational Database Management Systems)
+- Aplikasi database yang menggunakan konsep relational model
 <br>
 ### 3. Sebutkan 5 cara apa saja yang dipakai dalam penyimpanan data pada database model?
    - Flat Model : Menyimpan data tanpa aturan dan cara penulisan tertentu.  
