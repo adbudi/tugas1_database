@@ -12,6 +12,7 @@ didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistemat
 * Network Model : Pengembangan dari hierarchical model.  
 * Relational Model  : Menyusun data ke dalam bentuk tabel yang saling terhubung.
 * Object Oriented Model : Menggunakan pendekatan object dalam menyimpan data.  
+
 <br>
 
 ### 4. Sebutkan 6 aplikasi RDBMS selain MySQL!
@@ -21,9 +22,11 @@ didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistemat
 * SQL Server
 * SyyBase
 * Microsoft Access
+
 <br>
+
 ### 5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
-*** User friendly
+* User friendly
 *** Multiuser Support  
 *** Speed
 *** Internazionalizasion
